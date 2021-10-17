@@ -1,0 +1,12 @@
+
+
+系统名称：基于web的图书管理系统
+开发工具：eclipse
+开发语言：serlvet+jsp+java1.8
+数据库：MySql5.7
+tomcat9.0，端口：8080
+
+访问地址：http://localhost:8080/manage_books
+
+毕业设计、课程设计大全：https://gitee.com/cyouagain/graduation
+
